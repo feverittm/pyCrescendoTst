@@ -7,6 +7,7 @@
 import wpilib
 import wpilib.drive
 import commands2
+import rev
 
 import constants
 
